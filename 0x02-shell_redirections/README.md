@@ -1,1 +1,1 @@
-showing redirections command
+shell redirection
